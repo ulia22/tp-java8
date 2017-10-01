@@ -87,7 +87,7 @@ public class Stream_05_Test {
         // Le bloc try(...) permet de fermer (close()) le stream après utilisation
         try (Stream<String> lines = null) {
 
-            // TODO trouver la naissance où il va eu le plus de nombre de naissance
+            // TODO trouver la naissance où il y a eu le plus de nombre de naissance
             Optional<Naissance> result = null;
 
 
